@@ -131,6 +131,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories.
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications.
 * [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
+* [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - Extend input widgets available in shiny.
  
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
@@ -149,6 +150,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
 	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets.
 	* [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget)
+	* [billboarder](https://github.com/dreamRs/billboarder) - Htmlwidget for billboard.js.
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
